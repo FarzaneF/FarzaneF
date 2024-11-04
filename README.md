@@ -1,5 +1,6 @@
 # 💫 About Me:
-Turing Research Team
+A member of Turing Research Team
+Software Engineer Student at Islamic Azad University, 
 
 
 ## 🌐 Socials:
