@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 A member of Turing Research Team
 Software Engineer Student at Islamic Azad University, 
 
